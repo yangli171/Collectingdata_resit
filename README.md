@@ -4,7 +4,7 @@ In this github, I uploaded the reworked [collecting data] assignments: Assignmen
 
 Assignment2: 2023-03-01 - Fixed the error mentioned in the feedback, revised the study title and study topic, added a note about the study will use github to store data.
 
-Assignment3: 2023-03-02 - Fixed scrape of lyrics, scrape the HTML page from AzLyrics.
+Final_Individual_Assignment(Assignment3): 2023-03-02 - Fixed scrape of lyrics, scrape the HTML page from AzLyrics.
 
 Assignment4: 2023-03-02 - Proposed a new research question based on the CSV file and visualized the results.
 
